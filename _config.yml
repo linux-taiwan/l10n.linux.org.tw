@@ -5,7 +5,7 @@ email: chinese-l10n@googlegorups.com
 description: > # this means to ignore newlines until "baseurl:"
   本在地化支援網站，主要致力於支援 Linux 相關的自由暨開源軟體在地化貢獻者。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://l10n.linux.org.tw" # the base hostname & protocol for your site
+url: "http://linux-taiwan.github.io/l10n.linux.org.tw" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
