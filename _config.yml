@@ -1,11 +1,9 @@
 # Site settings
-title: 臺灣 L10n 在地化支援站
-subtitle: 
+title: 臺灣 Linux 社群 l10n 支援站
+subtitle: 臺灣自由暨開源軟體專案的在地化支援網站
 email: chinese-l10n@googlegorups.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  本在地化支援網站，主要致力於支援 Linux 相關的自由暨開源軟體在地化貢獻者。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://l10n.linux.org.tw" # the base hostname & protocol for your site
 

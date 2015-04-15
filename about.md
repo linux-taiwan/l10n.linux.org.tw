@@ -4,8 +4,13 @@ title: 關於
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# 我們
+我們是一群安靜貢獻自由暨開源軟體專案、對在地化領域默默耕耘的人。我們希望能透過這個網站，撰寫並蒐集資料，來改善在地化領域的參與環境，並降低參與門檻。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+絕大部分的我們，是各主要自由暨開源軟體專案的翻譯者，部份幾位兼做字型，其他則也有在開發網站的。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+# 本站
+本站試圖以在地化文件目錄的方式，逐步建構出在地化領域的必備資源，主要包括翻譯、字型、開發三種類型的重要資訊。
+
+首要支援 Linux 相關的自由暨開源軟體專案，包括各大 Linux 散布版、桌面環境、辦公軟體、美工繪圖軟體、3D 軟體、開放字型、輸入法… 等。
