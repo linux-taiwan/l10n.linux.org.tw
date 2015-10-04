@@ -1,11 +1,15 @@
 # Site settings
-title: 臺灣 Linux 社群 l10n 支援站
-subtitle: 臺灣自由暨開源軟體專案的在地化支援網站
-email: chinese-l10n@googlegorups.com
+title: 臺灣 Linux 正體中文支援站
+subtitle: 臺灣 Linux 桌面環境應用的在地化支援網站
+email: chinese-l10n@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
-  本在地化支援網站，主要致力於支援 Linux 相關的自由暨開源軟體在地化貢獻者。
-baseurl: "/l10n.linux.org.tw" # the subpath of your site, e.g. /blog/
-url: "http://linux-taiwan.github.io/l10n.linux.org.tw" # the base hostname & protocol for your site
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://l10n.linux.org.tw" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
